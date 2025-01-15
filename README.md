@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/54f4d195-2b05-4924-965c-4e9d39172b0c)# Image-Analysis-of-Particles
+# Image-Analysis-of-Particles
 This project involves using MATLAB code to efficiently find out the particle size profile present in the image even when particles are overlapping.
 
 ## Using MATLAB
