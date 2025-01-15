@@ -11,3 +11,6 @@ Basically, in this we plot a graph between number of particles with respect to i
 1. Pharmaceutical Industry :- In drug development, PSD analysis helps in formulating dosage forms with optimal bioavailability and stability.
   
 2. Environmental Science :- PSD analysis of airborne particulate matter is critical for assessing air quality and health risks associated with inhalable pollutants.
+
+## Made validation through using ImageJ software :- 
+Output number of particles predicted by the MATLAB code exactly matches with the number of particles obtained in the ImageJ software for the same image.
